@@ -1,6 +1,13 @@
 # Daily progress
 
-## 2-october-2024 
+## 3-October-2024
+- Create UI Design For Desktop Application.
+- Javascript Tutorial
+- Learn Defination :
+  - Server 
+  - Internet
+  - Clients
+## 2-October-2024 
 - Number Convert System : 
  1. Decimal to Binary 
  2. Binary to Decimal
