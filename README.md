@@ -1,4 +1,9 @@
 # Daily progress
+## 4-October-2024
+- What is HTML
+- HTML Element
+- HTML Styling , Html Attributes
+- Global CSS Style &  Code Formatting 
 
 ## 3-October-2024
 - Create UI Design For Desktop Application.
