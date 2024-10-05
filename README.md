@@ -1,4 +1,14 @@
 # Daily progress
+
+## 5-October-2024
+- VS Code Shortcut & Tricks
+- In External File CSS Stylesheet
+- An Image : Adding & Styling
+- Styling The Overall Page
+- Organizing Source Files in Folders
+- The Development Server & The Local   Website Address
+- Creating & Understanding Lists
+
 ## 4-October-2024
 - What is HTML
 - HTML Element
