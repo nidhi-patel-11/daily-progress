@@ -1,5 +1,12 @@
 # Daily progress
 
+## 8-October-2024
+- Understanding Cascading, Inheritance & Specificity
+- Styling the Full Week Page
+- Introducing the CSS Box Model
+- Using the CSS Box Model-Creating HTML Layouts
+- Theory: Selectors & Combinators
+- Understanding Classes 
 ## 5-October-2024
 - VS Code Shortcut & Tricks
 - In External File CSS Stylesheet
