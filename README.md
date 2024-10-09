@@ -1,5 +1,13 @@
 # Daily progress
 
+## 9-October-2024
+- Block vs Inline Elements 
+- Understanding Margin Collapsing
+- The "box-shadow" Property 
+- Take Challenge! : Create web design, given follow instruction 
+
+   [ Creating the HTML Layout, Styling the Main Section, Styling Images & Working with Negative Margins , Finishing Touches ] 
+- One another task : [ Creating the Core Structure, Adding the Header Content, Adding Header Styling, Spacing & the CSS Box Model, Adding the Main Content, Styling the Main Content, Styling List Items & Links , Organizing our Files ]   
 ## 8-October-2024
 - Understanding Cascading, Inheritance & Specificity
 - Styling the Full Week Page
