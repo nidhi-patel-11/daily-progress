@@ -1,5 +1,20 @@
 # Daily progress
 
+## 10-October-2024
+- What is "Hosting" & "Deployment"
+- Hosting a First Static Website (Example Deployment on Netlify)
+- More Information On Netlify & HTTPS
+-  Adding a Favicon
+- Relative vs Absolute Paths
+- What are Git & GitHub
+- Command Line Interface (CLI) vs Graphical User Interface (GUI) 
+- Optional : 
+  - 1 : MacOS Terminal (z Shell)  
+  - 2 : Optional: MacOS Terminal (z Shell) 
+- Git : 
+  - MacOS Installation 
+  - Windows Installation
+
 ## 9-October-2024
 - Block vs Inline Elements 
 - Understanding Margin Collapsing
