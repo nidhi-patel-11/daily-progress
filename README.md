@@ -1,5 +1,12 @@
 # Daily progress
-
+## 14-October-2024
+- Continue To Work On Website 
+- Finishing the Header 
+- Creating the HTML Code ,"Highlights" Section
+- Building the Flex Container
+- Flex Item Layout
+- Styling Images with "object-fit"
+- Styling TextAdding "justify-content" 
 ## 12-October-2024
 -  Understanding the Personal Access Token & "git clone"
 - Collaborating on Projects - Collaborators & Organizations
