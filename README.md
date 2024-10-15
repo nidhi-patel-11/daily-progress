@@ -1,4 +1,14 @@
 # Daily progress
+
+## 15-October-2024
+-  Understanding Parent - Child Margin Collapsing
+- Working with CSS Functions - Linear Gradients
+- Creating a Footer Section
+- Styling the Footer 
+- Places Page - Overview & Preparations 
+- Creating the Card Content
+- Using "position: static" , Creating the Card Look
+
 ## 14-October-2024
 - Continue To Work On Website 
 - Finishing the Header 
@@ -7,6 +17,7 @@
 - Flex Item Layout
 - Styling Images with "object-fit"
 - Styling TextAdding "justify-content" 
+
 ## 12-October-2024
 -  Understanding the Personal Access Token & "git clone"
 - Collaborating on Projects - Collaborators & Organizations
