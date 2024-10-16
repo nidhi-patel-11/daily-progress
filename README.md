@@ -1,4 +1,12 @@
 # Daily progress
+## 16-October-2024
+- Solving the Challenge 
+- Creating all Cards
+- The CSS Grid - Theory
+- Understanding the "nth-type" Selector & "grid-template-columns" 
+- Your Grid Challenge
+- Working with Unicode
+- Finishing Touches [Complete Website work ]
 
 ## 15-October-2024
 -  Understanding Parent - Child Margin Collapsing
