@@ -1,5 +1,9 @@
 # Daily progress
-
+## 31-October-2024
+- What is Responsive Design? 
+- The Problem with Pixels
+- Comparing Units ( specifically for font-size)
+- Applying "em" & "rem" for the Font Size
 
 ## 30-October-2024
 - Creating a website 
