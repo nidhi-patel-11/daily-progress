@@ -1,4 +1,12 @@
 # Daily progress
+
+
+## 29-October-2024
+- Optional: Diving Deeper Into "position", Flexbox & the Grid 
+- Understanding Responsive design
+- Working with media Queries
+- Creating a slide Drawer
+
 ## 16-October-2024
 - Solving the Challenge 
 - Creating all Cards
