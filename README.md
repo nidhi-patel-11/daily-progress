@@ -1,6 +1,13 @@
 # Daily progress
 
 
+## 30-October-2024
+- Creating a website 
+- Creating the HTML Structure
+- Styling the Header
+- Styling the "main" Section
+- Create our full site and Structure
+
 ## 29-October-2024
 - Optional: Diving Deeper Into "position", Flexbox & the Grid 
 - Understanding Responsive design
